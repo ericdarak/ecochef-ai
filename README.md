@@ -6,6 +6,14 @@ Users can enter available ingredients, approximate expiration dates, and persona
 
 ---
 
+## Live Demo
+
+- Frontend: COLE_AQUI_SUA_URL_DA_VERCEL
+- Backend API: https://ecochef-ai.onrender.com
+- API Documentation: https://ecochef-ai.onrender.com/docs
+
+---
+
 ## Features
 
 - Ingredient input
@@ -18,6 +26,7 @@ Users can enter available ingredients, approximate expiration dates, and persona
 - Responsive React interface
 - FastAPI backend
 - Scikit-learn machine learning model
+- Online deployment with Vercel and Render
 
 ---
 
@@ -44,6 +53,11 @@ Users can enter available ingredients, approximate expiration dates, and persona
 - TF-IDF Vectorization
 - Logistic Regression
 - Text Classification
+
+### Deployment
+
+- Vercel
+- Render
 
 ---
 
@@ -88,7 +102,7 @@ ecochef-ai/
 4. The frontend sends the information to the FastAPI backend.
 5. The backend processes the input.
 6. A Scikit-learn model predicts the most suitable recipe category.
-7. The system recommends recipes based on ingredient matching and user preference.
+7. The system recommends recipes based on ingredient matching, user preference, and predicted category.
 8. The application estimates the food waste risk.
 9. The app displays the approximate environmental impact.
 
@@ -238,9 +252,9 @@ The system calculates an approximate environmental impact based on the estimated
 - Allow users to upload food images
 - Add user authentication
 - Save recipe history
-- Add a database with PostgreSQL
-- Add more recipes to the dataset
 - Add nutritional information
+- Improve the machine learning model with a larger dataset
+- Add a dashboard with charts and user history
 
 ---
 
@@ -252,9 +266,10 @@ During this project, I practiced:
 - Creating a REST API with FastAPI
 - Connecting frontend and backend
 - Training a basic machine learning model with Scikit-learn
-- Using TF-IDF for text processing
 - Saving and loading models with Joblib
 - Structuring a full-stack AI project
+- Deploying a frontend application on Vercel
+- Deploying a backend API on Render
 
 ---
 
