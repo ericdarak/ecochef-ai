@@ -75,8 +75,8 @@ ecochef-ai/
 │   │
 │   ├── main.py
 │   ├── train_model.py
-│   ├── requirements.txt
-│   └── README.md
+│   └── requirements.txt
+│
 │
 ├── frontend/
 │   ├── src/
