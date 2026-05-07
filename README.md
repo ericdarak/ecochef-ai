@@ -8,7 +8,7 @@ Users can enter available ingredients, approximate expiration dates, and persona
 
 ## Live Demo
 
-- Frontend: COLE_AQUI_SUA_URL_DA_VERCEL
+- Frontend: https://ecochef-ai.vercel.app
 - Backend API: https://ecochef-ai.onrender.com
 - API Documentation: https://ecochef-ai.onrender.com/docs
 
