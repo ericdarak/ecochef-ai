@@ -1,0 +1,21 @@
+recipe_name,ingredients,preference,category,estimated_co2_saved
+Chicken Rice Bowl,"rice chicken carrot onion",quick,lunch,1.4
+Tomato Chicken Pasta,"tomato chicken pasta garlic onion",quick,lunch,1.6
+Vegetable Soup,"carrot potato onion tomato cabbage",healthy,dinner,1.2
+Banana Pancake,"banana egg oat milk",healthy,breakfast,0.8
+Rice and Beans,"rice beans garlic onion",cheap,lunch,1.1
+Vegetarian Wrap,"lettuce tomato carrot cheese tortilla",vegetarian,lunch,0.9
+Fruit Smoothie,"banana apple milk oat",quick,breakfast,0.7
+Chicken Salad,"chicken lettuce tomato carrot",healthy,lunch,1.3
+Omelette with Vegetables,"egg tomato onion cheese carrot",quick,dinner,0.9
+Pasta with Vegetables,"pasta tomato carrot onion garlic",cheap,dinner,1.0
+Grilled Cheese Sandwich,"bread cheese tomato",quick,snack,0.5
+Apple Oat Bowl,"apple oat milk banana",healthy,breakfast,0.6
+Bean Soup,"beans potato carrot onion garlic",cheap,dinner,1.2
+Vegetable Rice,"rice carrot tomato onion",vegetarian,lunch,1.0
+Chicken Sandwich,"bread chicken lettuce tomato",quick,snack,1.1
+Avocado Toast,"bread avocado egg tomato",healthy,breakfast,0.7
+Chicken Soup,"chicken carrot potato onion garlic",healthy,dinner,1.5
+Tomato Rice,"rice tomato onion garlic",cheap,lunch,0.9
+Cheese Omelette,"egg cheese milk",quick,breakfast,0.6
+Vegetable Stir Fry,"carrot broccoli onion rice",healthy,lunch,1.1
